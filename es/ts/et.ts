@@ -44,27 +44,25 @@
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">se Han realizado cambios (&quot;%s&quot)</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otro usuario también ha hecho cambios. ¿Qué te gustaría hacer?</translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Haga clic en Descartar para descartar los cambios y editar la versión más reciente.</translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Haga clic en Guardar para guardar los cambios en un archivo diferente y abrir la última versión.</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
+        <translation type="Descartar(&amp;)"<message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation type=>Guardar como(&amp;)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -105,31 +103,31 @@
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccione la fuente de datos</translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir archivo directamente (&amp;)</translation>
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usar ODBC guía de conexión de origen de datos (W)</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccionar origen de datos ...(&amp;)</translation>
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">conexión de entrada de forma manual</translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">descripción</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usted puede elegir entre tres modos diferentes de conectarse a la fuente de datos elegido.</translation>
     </message>
 </context>
 <context>
@@ -222,7 +220,7 @@
     </message>
     <message>
         <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>Si abre un archivo nuevo, las modificaciones se perderan:</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -252,7 +250,7 @@
     <name>FilterPageUi</name>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El tercer paso: el filtrado de datos y clasificación</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -288,7 +286,7 @@
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puede hacer clic en Advanced Query para ordenar y filtrar los datos más complicadas, si es que todavía no puede satisfacer sus necesidades, puede introducir la instrucción de consulta directa.</translation>
     </message>
 </context>
 <context>
