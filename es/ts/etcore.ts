@@ -142,7 +142,7 @@ Please try one of the following.
         <source>WPS Spreadsheets cannot save this file due to a file permission error.
 (%s)</source>
         <comment>TX_Workbook_SaveFailurePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Hojas de cálculo no puede guardar este archivo debido a un error de permiso de archivo.</translation>
     </message>
     <message>
         <source>Try to save again?
@@ -154,7 +154,7 @@ Please try one of the following.
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
         <comment>TX_Workbook_SaveReadOnlyAgain</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este archivo ha sido abierto como de sólo lectura antes. ¿Todavía quieres abrirlo como de sólo lectura?</translation>
     </message>
     <message>
         <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
@@ -179,7 +179,7 @@ Please try one of the following.
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">¿Desea guardar los cambios?</translation>
     </message>
     <message>
         <source>(Read-only)</source>
@@ -223,17 +223,17 @@ Please try one of the following.
     <message>
         <source>Cannot save the file, because the file location you want to save is write protected.</source>
         <comment>TX_DiskIsWriteProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se puede guardar el archivo, ya que la ubicación del archivo que desea guardar está protegido contra escritura.</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
         <comment>TX_Document_BusyTip_Prompt_Open</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">abriendo el archivo, por favor, espere ...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>TX_Document_BusyTip_Prompt_Save</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guardando el archivo, por favor, espere ...</translation>
     </message>
     <message>
         <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
@@ -252,12 +252,12 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     <message>
         <source>The number format you entered is invalid.</source>
         <comment>TX_INVALID_NFSTRING</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El formato de número que ha introducido no es válido.</translation>
     </message>
     <message>
         <source>Book</source>
         <comment>TX_New_Book_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Libro</translation>
     </message>
     <message>
         <source>Sheet</source>
@@ -341,38 +341,40 @@ Note that data links can be used to access and share confidential information wi
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>TX_PrinterError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se puede imprimir, por favor, compruebe que la impresora se ha instalado correctamente.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets finds nothing to print.</source>
         <comment>TX_PrintPreview_No_data</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets no encuentra nada para imprimir.</translation>
     </message>
     <message>
         <source>Subtotal failed. Cannot insert information due to an array.</source>
         <comment>TX_Subtotal_Failed</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Subtotal falló. No se puede insertar la información debido a una matriz.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_Corrupt_FormulaArray</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">la matriz no se puede cambiar.</translation>
     </message>
     <message>
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
         <comment>TX_RenameSheet_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El nombre que ha introducido no es válido. Al cambiar el nombre de una hoja, pruebe uno de los siguientes:</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
         <comment>TX_Confirm_Max_Length_SheetName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• Asegúrese de que el nombre que ha introducido no exceda de 31 caracteres.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the name does not contain any of the following characters: : / ?\ * [ ]
 • The first or last character cannot be single quotes.</source>
         <comment>TX_Confirm_Invalid_Char_In_SheetName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+• Asegúrese de que el nombre no contiene ninguno de los caracteres siguientes:? / \ * []
+• El primer o el último carácter no puede ser comillas simples.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the worksheet name is not blank.</source>
@@ -382,77 +384,79 @@ Note that data links can be used to access and share confidential information wi
     <message>
         <source>Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
         <comment>TX_RenameSheet_Error2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+No se puede cambiar el nombre de una hoja con el mismo nombre que otra hoja, una biblioteca de objetos de referencia o de un libro de referencia por Visual Basic.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
         <comment>TX_Confirm_Max_Length_BookName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• Asegúrese de que el nombre que ha introducido no exceda de 218 caracteres ..</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• Asegúrese de que el nombre no contiene ninguno de los siguientes caracteres: \ * /:? &quot; &lt; &gt; |.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the workbook name is not blank.</source>
         <comment>TX_Confirm_Zero_Length_BookName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">• Asegúrese de que el nombre del libro no este en blanco.</translation>
     </message>
     <message>
         <source>Reference is invalid.</source>
         <comment>TX_Hyperlink_Cannot_OpenRef</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Referencia no válida.</translation>
     </message>
     <message>
         <source>Cannot open the specified file.</source>
         <comment>TX_Hyperlink_Cannot_OpenFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se puede abrir el archivo </translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
         <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Hojas de cálculo no puede terminar esta operación por falta de memoria.</translation>
     </message>
     <message>
         <source>Parts of formats are lost due to insufficient resources.</source>
         <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM_WARNING</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Partes de formatos se pierden debido a la insuficiencia de recursos.</translation>
     </message>
     <message>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_MergedCell_InRange</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Las celdas combinadas no se pueden ordenar.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_ArrayFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Las celdas combinadas no se pueden ordenar.</translation>
     </message>
     <message>
         <source>Part of merged cell cannot be changed.</source>
         <comment>TX_ERROR_MergeCell</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parte de celda combinada no se puede cambiar.</translation>
     </message>
     <message>
         <source>Array formulas in merged cells are not valid.</source>
         <comment>TX_ERROR_MergeCell_FORMULA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Las fórmulas de matriz en celdas combinadas no son válidos.</translation>
     </message>
     <message>
         <source>This command cannot be used on overlapping selections.</source>
         <comment>TX_ERROR_MultiRange_Option</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+su orden no se puede utilizar en selecciones superpuestas.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections.</source>
         <comment>TX_ERROR_MultiRange_Copy</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este comando no se puede utilizar en varias selecciones.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_Array_PartChange</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parte de una matriz no se puede cambiar.</translation>
     </message>
     <message>
         <source>Source reference area overlaps with target area.</source>
